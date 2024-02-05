@@ -1,7 +1,7 @@
 Hi 👋 My name is Ronil Jan C. Caputilla
 =======================================
 
-4th year Student of De La Salle University Dasmarina, currently pursuing Computer Engineering
+4th year Student of De La Salle University Dasmarinas, currently pursuing Computer Engineering
 
 * 🌍  I'm based in Philippines
 * ✉️  You can contact me at [ronilcaputilla@gmail.com](mailto:ronilcaputilla@gmail.com)
